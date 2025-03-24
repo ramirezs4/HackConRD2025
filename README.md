@@ -3,6 +3,9 @@
 
 🚀 📂 Contenido del Repositorio
 
+Presentación "Monitoreo de Seguridad y Rendimiento"
+https://prezi.com/view/DIoECmAkpbYePo3etlKB/
+
 Wazuh (All-in-One) – Plataforma SIEM para detección y respuesta ante amenazas.
 https://www.mediafire.com/file/qe634gi4fijytun/wazuh.rar/file
 
